@@ -1,0 +1,90 @@
+IP address:33.252.195.109/23
+Mask: 255.255.254.0
+Network: 33.252.194.0
+First host: 33.252.194.1
+Last host: 33.252.195.254
+Broadcast Address: 33.252.195.255
+Total number of valid addresses: 512
+======================
+
+IP address:157.243.159.161/29
+Mask: 255.255.255.248
+Network: 157.243.159.160
+First host: 157.243.159.161
+Last host: 157.243.159.166
+Broadcast Address: 157.243.159.167
+Total number of valid addresses: 8
+======================
+
+IP address:146.72.205.66/25
+Mask: 255.255.255.128
+Network: 146.72.205.0
+First host: 146.72.205.1
+Last host: 146.72.205.126
+Broadcast Address: 146.72.205.127
+Total number of valid addresses: 128
+======================
+
+IP address:115.18.189.19/18
+Mask: 255.255.192.0
+Network: 115.18.128.0
+First host: 115.18.128.1
+Last host: 115.18.191.254
+Broadcast Address: 115.18.191.255
+Total number of valid addresses: 16384
+======================
+
+IP address:175.243.241.231/28
+Mask: 255.255.255.240
+Network: 175.243.241.224
+First host: 175.243.241.225
+Last host: 175.243.241.238
+Broadcast Address: 175.243.241.239
+Total number of valid addresses: 16
+======================
+
+IP address:89.222.102.251/29
+Mask: 255.255.255.248
+Network: 89.222.102.248
+First host: 89.222.102.249
+Last host: 89.222.102.254
+Broadcast Address: 89.222.102.255
+Total number of valid addresses: 8
+======================
+
+IP address:46.164.251.155/18
+Mask: 255.255.192.0
+Network: 46.164.192.0
+First host: 46.164.192.1
+Last host: 46.164.255.254
+Broadcast Address: 46.164.255.255
+Total number of valid addresses: 16384
+======================
+
+IP address:182.47.96.102/25
+Mask: 255.255.255.128
+Network: 182.47.96.0
+First host: 182.47.96.1
+Last host: 182.47.96.126
+Broadcast Address: 182.47.96.127
+Total number of valid addresses: 128
+======================
+
+IP address:14.146.201.115/16
+Mask: 255.255.0.0
+Network: 14.146.0.0
+First host: 14.146.0.1
+Last host: 14.146.255.254
+Broadcast Address: 14.146.255.255
+Total number of valid addresses: 65536
+======================
+
+IP address:97.87.85.6/24
+Mask: 255.255.255.0
+Network: 97.87.85.0
+First host: 97.87.85.1
+Last host: 97.87.85.254
+Broadcast Address: 97.87.85.255
+Total number of valid addresses: 256
+======================
+
