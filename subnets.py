@@ -26,9 +26,10 @@ interfc = ipaddress.ip_interface(str(b1) + "." + str(b2)+ "." + str(b3)+ "." + s
 all_hosts=list(interfc.network.hosts())
 
 print("Mask: " + str(interfc.netmask))
-print ("Network: " + str(interfc.network.network_address))
+print("Network: " + str(interfc.network.network_address))
 print("First host: " + str(all_hosts[0]))
 print("Last host: " + str(all_hosts[-1]))
 print("Broadcast Address: " + str(interfc.network.broadcast_address))
-print("Total number of valid addresses: " + str(interfc.network.num_addresses))
+print("Total number of valid IP addresses: " + str(interfc.network.num_addresses))
+print("Total number of valid host IP addresses: " + str(interfc.network.num_addresses-2))
 print("======================\n")
